@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Live Preview: https://andz-skintherapy.netlify.app  
+Live Preview: https://andz.ro/skintherapy  
 
 ---
 
